@@ -1,7 +1,9 @@
-import React, { useRef } from "react";
+import React from "react";
 import { MapContainer, TileLayer, Marker, useMap } from "react-leaflet";
 import L from "leaflet";
 import axios from "axios";
+import 'leaflet/dist/leaflet.css';
+
 
 // Example tree icon
 const treeIcon = new L.Icon({
