@@ -30,3 +30,4 @@ export const Plants_screen = () => {
     </div>
   );
 };
+export default Plants_screen; 

@@ -380,7 +380,7 @@ const Homepage = (props: Props) => {
             </div>
           </div>
           <div className="text-center text-gray-400 text-sm">
-            Made with <span className="text-purple-600 font-semibold">Visily</span>
+            Team <span className="text-purple-600 font-semibold">err404</span>
           </div>
         </div>
       </footer>
